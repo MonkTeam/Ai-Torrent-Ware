@@ -30,11 +30,11 @@
     },
     "OWNER_ID": {
       "description": "should be an integer. ID of owner of bot",
-      "value": ""
+      "value": "1054316613"
     },
     "UPLOAD_AS_DOC": {
       "description": "True/False. If true all files will be uploaded as documents. Default is False.",
-      "value": ""
+      "value": "True"
       "required": false
     },
     "CHUNK_SIZE": {
@@ -59,7 +59,7 @@
     },
     "FINISHED_PROGRESS_STR": {
       "description": "should be a single character.",
-      "value": ""
+      "value": "✪ "
       "required": false
     },
     "UN_FINISHED_PROGRESS_STR": {
@@ -73,7 +73,7 @@
     },
     "LEECH_COMMAND": {
       "description": "Enter your custom leech command like /leech@urgroupname and so on. Default is /leech",
-      "value": ""
+      "value": "leech"
       "required": false
     },
     "INDEX_LINK": {
@@ -83,32 +83,32 @@
     },
     "GLEECH_COMMAND": {
       "description": "Enter your custom gleech command like /gleech1@urgroupname and so on. Default is /gleech",
-      "value": ""
+      "value": "gleech"
       "required": false
     },
     "TELEGRAM_LEECH_COMMAND_G": {
       "description": "Enter your custom tleech command like /tleech1@urgroupname and so on. Default is /tleech",
-      "value": ""
+      "value": "tleech"
       "required": false
     },
     "YTDL_COMMAND": {
       "description": "Enter your custom ytdl command like ytdl1@urgroupname and so on. Default is /ytdl.",
-      "value": ""
+      "value": "ytdl"
       "required": false
     },
     "PYTDL_COMMAND_G": {
       "description": "Enter your custom pytdl command like pytdl1@urgroupname and so on. Default is /pytdl.",
-      "value": ""
+      "value": "pytdl"
       "required": false
     },
     "CANCEL_COMMAND_G": {
       "description": "Enter your custom cancel command like cancel@urgroupname and so on. Default is /cancel.",
-      "value": ""
+      "value": "cancel"
       "required": false
     },
     "GET_SIZE_G": {
       "description": "Enter your custom getsize command like getsize@urgroupname and so on. Default is /getsize.",
-      "value": ""
+      "value": "getsize"
       "required": false
     },
     "RCLONE_CONFIG": {
@@ -117,7 +117,7 @@
     },
     "DESTINATION_FOLDER": {
       "description": "Enter your Cloud folder NAME(not ID😅) in which you want to upload/store your files.",
-      "value": ""
+      "value": "Bot Uploads"
       "required": false
     },
     "CUSTOM_FILE_NAME": {
