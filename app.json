@@ -6,7 +6,7 @@
   ],
   "repository": "https://github.com/TMAdminz/New-Test",
   "success_url": "https://t.me/torrentleechgdrivesupport",
-  "website": "https://github.com/gautamajay52/TorrentLeech-Gdrive",
+  "website": "https://github.com/TMAdminz/New-Test",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
